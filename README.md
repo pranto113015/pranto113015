@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm pranto113015</h1>
+<h1 align="center">Hi, I'm pranto113015</h1>
 <h3 align="center">Dioploma in-engineer Computer Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranto113015&label=Profile%20views&color=0e75b6&style=flat" alt="pranto113015" /> </p>
