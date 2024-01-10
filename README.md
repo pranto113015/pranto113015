@@ -1,3 +1,4 @@
+![logo](https://github.com/pranto113015/pranto113015/blob/main/github-bannar.jpg?raw=true)
 <h1 align="center">Hi<img src="https://github.com/pranto113015/pranto113015/blob/main/Wave.gif" height="55px" width="55px">, I'm Pranto Kumar</h1>
 <h3 align="center">Diploma In-engineer💻Computer Technology.</h3>
 
