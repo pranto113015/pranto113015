@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranto Kumar</h1>
+<h1 align="center">Hi<img src="https://github.com/pranto113015/pranto113015/blob/main/Wave.gif" height="55px" width="55px">, I'm Pranto Kumar</h1>
 <h3 align="center">Diploma In-engineer💻Computer Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranto113015&label=Profile%20views&color=0e75b6&style=flat" alt="pranto113015" /> </p>
