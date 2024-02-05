@@ -10,6 +10,8 @@
 
 - 📚 I’m currently learning **[BCSE](https://cse.iubat.edu/)**
 
+- 👨‍💻 I'm currently working **[Java programming](https://www.javatpoint.com/java-tutorial)**
+
 - 💬 Ask me about **Web Design**
 
 - 📫 How to reach me **pranto113015@gmail.com**
