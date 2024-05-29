@@ -19,9 +19,9 @@
 
 - 📚 I’m currently learning **[BCSE](https://cse.iubat.edu/)**
 
-- 👨‍💻 I'm currently working **[Java programming](https://www.javatpoint.com/java-tutorial)**
+- 👨‍💻 I'm currently working **[Front-End Development]**
 
-- 💬 Ask me about **Front-End Development**
+- 💬 Ask me about **Web**
 
 - 📫 How to reach me **pranto113015@gmail.com**
 
