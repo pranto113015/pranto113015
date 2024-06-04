@@ -1,5 +1,5 @@
 <!--Banar Section Start-->
-![logo](https://github.com/pranto113015/pranto113015/blob/main/github-bannar.jpg?raw=true)
+![logo](https://github.com/pranto113015/pranto113015/blob/main/github-bannar2.jpg?raw=true)
 <!--Banar Section End-->
 
 <!--Title & Typography Section End-->
