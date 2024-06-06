@@ -53,8 +53,17 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 </p>
 <!--Connect with me Section End-->
 
+### 💼 Experience :
+
+| Position            | Institute                                   | Duration            | Location           |
+| ------------------- | ------------------------------------------- | ------------------- | ------------------ |
+| Campus Ambasador    | Creative IT Institute                       | Nov 2023 - Running  | Danmondi,Dhaka     |
+
+
+
+
 <!-- Developer Hub section start -->
-<h3 align="left">&#128187; Development Hub :</h3>
+<h3 align="left">&#128187; Development Hub / Skills :</h3>
 
  > Progamming languages :
 <table>
@@ -170,16 +179,40 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
     </td>
     </tr>
 </table>
-
 <!-- Developer Hub section end -->
 
+### 📘  Education :
+1. B.Sc. in Computer Science & Engineering (Running),
+   IUBAT University  
+   Uttara Model Town Dhaka, Bangladesh.
+3. Diploma in Computer Science & Technology  
+    Bogura Polytechnic Institute ,Bogura.
+
+
+
+
+
+
+
 <!--Certification Section Start-->
-<h3 align="left">	&#174; Certifications :</h3>
+<h3 align="left" > 👨🏻‍🎓&nbsp;Certifications:</h3>
 <code><img height= "70" alt="certified scrum master" src="./img/IUBAT JS Course Cartificate.jpg"></code>
 <code><img height= "70" alt="certified scrum master" src="./img/CNSS certificate.png"></code>
 <code><img height= "70" alt="certified scrum master" src="./img/Pathway to software engineering certificate.png"></code>
 <code><img height= "70" alt="certified scrum master" src="./img/visual identity graphics design certificate.png"></code>
 <!--Certification Section end-->
+
+### 🎯 Sports / Game / Activities / Hobby :
+
+- 🏸 Badminton
+- 🏃‍♂️ Running 
+- 🚶‍♂️ Walking
+- ✈️ Travelling
+- 🌳 Gardening
+
+### 🏅 Honors & Awards :
+
+- 100% Scholarship Freelancing of Adobe Photoshop at Creative It Institute, Dhaka.
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranto113015&show_icons=true&locale=en&layout=compact" alt="pranto113015" /></p>
@@ -187,3 +220,10 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranto113015&show_icons=true&locale=en" alt="pranto113015" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranto113015&" alt="pranto113015" /></p>
+
+---
+
+Thanks for going through my personal Portfolio.
+All rights reserved by [Pranto Kumar](https://www.linkedin.com/in/pranto-kumar-a326801b3/) @ 2024
+
+---
