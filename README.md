@@ -197,6 +197,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 <!--Certification Section Start-->
 <h3 align="left" > 👨🏻‍🎓&nbsp;Certifications:</h3>
 <code><img height= "70" alt="certified scrum master" src="./img/IUBAT JS Course Cartificate.jpg"></code>
+<code><img height= "70" alt="certified scrum master" src="./img/Master Git and Github - Beginner to Expert.jpg"></code>
 <code><img height= "70" alt="certified scrum master" src="./img/CNSS certificate.png"></code>
 <code><img height= "70" alt="certified scrum master" src="./img/Pathway to software engineering certificate.png"></code>
 <code><img height= "70" alt="certified scrum master" src="./img/visual identity graphics design certificate.png"></code>
