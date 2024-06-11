@@ -1,5 +1,7 @@
 <!--Banar Section Start-->
+
 ![logo](./img/github-bannar2.png)
+
 <!--Banar Section End-->
 
 <!--Title & Typography Section End-->
@@ -15,19 +17,20 @@
 
 <!-- Header subtitle area start -->
 <h3 align="center">My  passion is Front-end Developer</h3>
-<p>I'm Pranto, a <b>Front-End Developer</b>  and Graphics Designer from Bangladesh. I accomplished the 4 years Diploma-in engineering of Computer Science and Technology at Bogura Polytechnic Institute, Bogura. I Spend most of time coding outstanding projects or Creative Design. In terms of experience, I have served as a Campus Ambassador at Creative IT Institute. During my time there from March 2022 to April 2023. 
+<p>I'm Pranto, a <b>Front-End Developer</b>  and Graphics Designer from Bangladesh. I accomplished the 4 years Diploma-in engineering of Computer Science and Technology at Bogura Polytechnic Institute, Bogura. I Spend most of time coding outstanding projects or Creative Design. In terms of experience, I have served as a Campus Ambassador at Creative IT Institute. During my time there from March 2022 to April 2023.
 
-Throughout my academic journey, I have participated in Goverment Training Skill Development for Mobile Game & Application Project (UX/UI Design), ICT Division. 
+Throughout my academic journey, I have participated in Goverment Training Skill Development for Mobile Game & Application Project (UX/UI Design), ICT Division.
 
 I have a strong command of programming languages such as C, C++, Java and JavaScript. I am proficient in concepts related to Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOP). Additionally, I have hands-on experience with technologies and tools like HTML, CSS, Bootstrap, jQuery, Java Script and MySQL.</p>
+
 <!-- Header subtitle area end -->
 
 <!--Body Right Section start-->
 <img align="right" alt="coding" width="300" src="./img/live-coding.gif">
 <!--Body Right Section End-->
 
-
 <!--Body Left Section Start-->
+
 - 👨‍🎓 I’m currently a Student at **[IUBAT University](https://iubat.edu/)**
 
 - 📚 I’m currently learning **[BCSE](https://cse.iubat.edu/)**
@@ -40,7 +43,6 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 
 - ⚡ Fun fact **I am funny**
 <!--Body Left Section End-->
-
 
 <!--Connect with me Section Start-->
 <h3 align="left">&#128073; Connect with me :</h3>
@@ -55,28 +57,26 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 
 ### 💼 Experience :
 
-| Position            | Institute                                   | Duration            | Location           |
-| ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Campus Ambasador    | Creative IT Institute                       | Nov 2023 - Running  | Danmondi,Dhaka     |
-
-
-
+| Position         | Institute             | Duration           | Location       |
+| ---------------- | --------------------- | ------------------ | -------------- |
+| Campus Ambasador | Creative IT Institute | Nov 2023 - Running | Danmondi,Dhaka |
 
 <!-- Developer Hub section start -->
 <h3 align="left">&#128187; Development Hub / Skills :</h3>
 
- > Progamming languages :
+> Progamming languages :
+
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/c.png" width="48" height="48" alt="c" />
+        <img src="./img/c.svg" width="48" height="48" alt="c" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/c++.png" width="48" height="48" alt="c++" />
+        <img src="./img/c++.svg" width="48" height="48" alt="c++" />
       </a>
       <br>C++
     </td>
@@ -95,19 +95,19 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
     </td>
          <td align="center" width="96">
       <a href="#">
-        <img src="./img/js.png" width="48" height="48" alt="PHP" />
+        <img src="./img/info-javascript.svg" width="48" height="48" alt="PHP" />
       </a>
-      <br>Java Script
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/html.png" width="48" height="48" alt="HTML" />
+        <img src="./img/info-html.svg" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML5
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/css.png" width="48" height="48" alt="CSS3" />
+        <img src="./img/info-css.svg" width="48" height="48" alt="CSS3" />
       </a>
       <br>CSS3
     </td>
@@ -115,41 +115,49 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 </table>
 
 > Frameworks and libraries :
+
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/bootstrap.png" width="48" height="48" alt="bootstrap" />
+        <img src="./img/bootstrap-5-1.svg" width="48" height="48" alt="bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="img/react.png" width="48" height="48" alt="react" />
+        <img src="img/info-react.svg" width="48" height="48" alt="react" />
       </a>
       <br>React
     </td>
     </tr>
 </table>
 
-> Software and Tools  :
+> Software and Tools :
+
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/git.png" width="48" height="48" alt="bootstrap" />
+        <img src="./img/info-git.svg" width="48" height="48" alt="bootstrap" />
       </a>
       <br>git
     </td>
+       <td align="center" width="96">
+      <a href="#">
+        <img src="./img/info-github.svg" width="48" height="48" alt="bootstrap" />
+      </a>
+      <br>GitHub
+    </td>
      <td align="center" width="96">
       <a href="#">
-        <img src="./img/ps.png" width="48" height="48" alt="ps" />
+        <img src="./img/adobe-photoshop.svg" width="48" height="48" alt="ps" />
       </a>
       <br>Adobe Photoshop
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/ai.png" width="48" height="48" alt="ps" />
+        <img src="./img/adobe-illustrator.svg" width="48" height="48" alt="ps" />
       </a>
       <br>Adobe Illustratorar
     </td>
@@ -163,6 +171,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 </table>
 
 > Databases and cloud hosting :
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -173,7 +182,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/mysql.png" width="48" height="48" alt="mysql" />
+        <img src="./img/mysql.svg" width="48" height="48" alt="mysql" />
       </a>
       <br>MySQL
     </td>
@@ -181,18 +190,13 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 </table>
 <!-- Developer Hub section end -->
 
-### 📘  Education :
+### 📘 Education :
+
 1. B.Sc. in Computer Science & Engineering (Running),
    IUBAT University  
    Uttara Model Town Dhaka, Bangladesh.
-3. Diploma in Computer Science & Technology  
-    Bogura Polytechnic Institute ,Bogura.
-
-
-
-
-
-
+2. Diploma in Computer Science & Technology  
+   Bogura Polytechnic Institute ,Bogura.
 
 <!--Certification Section Start-->
 <h3 align="left" > 👨🏻‍🎓&nbsp;Certifications:</h3>
@@ -206,7 +210,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 ### 🎯 Sports / Game / Activities / Hobby :
 
 - 🏸 Badminton
-- 🏃‍♂️ Running 
+- 🏃‍♂️ Running
 - 🚶‍♂️ Walking
 - ✈️ Travelling
 - 🌳 Gardening
@@ -214,7 +218,6 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 ### 🏅 Honors & Awards :
 
 - 100% Scholarship Freelancing of Adobe Photoshop at Creative It Institute, Dhaka.
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranto113015&show_icons=true&locale=en&layout=compact" alt="pranto113015" /></p>
 
