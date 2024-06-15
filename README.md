@@ -39,7 +39,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 
 - 💬 Ask me about **Web Related**
 
-- 📫 How to reach me **pranto113015@gmail.com**
+- 📫 How to reach me **<pranto113015@gmail.com>**
 
 - ⚡ Fun fact **I am funny**
 <!--Body Left Section End-->
@@ -57,7 +57,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 </p>
 <!--Connect with me Section End-->
 
-### 💼 Experience :
+### 💼 Experience
 
 | Position         | Institute             | Duration           | Location       |
 | ---------------- | --------------------- | ------------------ | -------------- |
@@ -192,7 +192,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 </table>
 <!-- Developer Hub section end -->
 
-### 📘 Education :
+### 📘 Education
 
 1. B.Sc. in Computer Science & Engineering (Running),
    IUBAT University  
@@ -202,15 +202,16 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 
 <!--Certification Section Start-->
 <h3 align="left" > 👨🏻‍🎓&nbsp;Certifications:</h3>
-<code><img height= "70" alt="certificate of ux/ui designer" src="./assets/certificate/IUBAT JS Course Cartificate.jpg"></code>
-<code><img height= "70" alt="certified scrum master" src="./assets/certificate/IUBAT JS Course Cartificate.jpg"></code>
-<code><img height= "70" alt="certified scrum master" src="./assets/certificate/Master Git and Github - Beginner to Expert.jpg"></code>
-<code><img height= "70" alt="certified scrum master" src="./assets/certificate/CNSS certificate.png"></code>
-<code><img height= "70" alt="certified scrum master" src="./assets/certificate/Pathway to software engineering certificate.png"></code>
-<code><img height= "70" alt="certified scrum master" src="./assets/certificate/visual identity graphics design certificate.png"></code>
+<code><img height= "70" alt="certificate of ux/ui designer" src="./assets/certificate/UX UI Traning Certificate.jpg"></code>
+<code><img height= "70" alt="certificate of Adobe Photoshop" src="./assets/certificate/Creative it Traning Certificate.jpg"></code>
+<code><img height= "70" alt="certificate of js" src="./assets/certificate/IUBAT JS Course Cartificate.jpg"></code>
+<code><img height= "70" alt="certificate of git & github" src="./assets/certificate/Master Git and Github - Beginner to Expert.jpg"></code>
+<code><img height= "70" alt="certificate of networking" src="./assets/certificate/CNSS certificate.png"></code>
+<code><img height= "70" alt="certificate of pathway of software engineering" src="./assets/certificate/Pathway to software engineering certificate.png"></code>
+<code><img height= "70" alt="certificate of brightkills" src="./assets/certificate/visual identity graphics design certificate.png"></code>
 <!--Certification Section end-->
 
-### 🎯 Sports / Game / Activities / Hobby :
+### 🎯 Sports / Game / Activities / Hobby
 
 - 🏸 Badminton
 - 🏃‍♂️ Running
@@ -218,7 +219,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 - ✈️ Travelling
 - 🌳 Gardening
 
-### 🏅 Honors & Awards :
+### 🏅 Honors & Awards
 
 - 100% Scholarship Freelancing of Adobe Photoshop at Creative It Institute, Dhaka.
 
