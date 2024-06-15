@@ -1,11 +1,11 @@
 <!--Banar Section Start-->
 
-![logo](./img/github-bannar2.png)
+![logo](./assets/img/github-bannar2.png)
 
 <!--Banar Section End-->
 
 <!--Title & Typography Section End-->
-<h1 align="center">Hi ,<img src="./img/Wave.gif" height="50px" width="50px">I'm a Front-End Developer</h1>
+<h1 align="center">Hi ,<img src="./assets/img/Wave.gif" height="50px" width="50px">I'm a Front-End Developer</h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F29F7&background=FF1E1100&center=true&vCenter=true&width=435&lines=welcome+to+visit+my+profile;Nice+to+meet+you+" alt="Typing SVG" /></a>
@@ -26,7 +26,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 <!-- Header subtitle area end -->
 
 <!--Body Right Section start-->
-<img align="right" alt="coding" width="300" src="./img/live-coding.gif">
+<img align="right" alt="coding" width="300" src="./assets/img/live-coding.gif">
 <!--Body Right Section End-->
 
 <!--Body Left Section Start-->
@@ -46,7 +46,9 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 
 <!--Connect with me Section Start-->
 <h3 align="left">&#128073; Connect with me :</h3>
+
 <p align="left">
+
 <a href="https://linkedin.com/in/pranto-kumar-a326801b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranto-kumar-a326801b3" height="30" width="40" /></a>
 <a href="https://fb.com/sreeprantokumar.saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sreeprantokumar.saha" height="30" width="40" /></a>
 <a href="https://instagram.com/sreeprantokumar.saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sreeprantokumar.saha" height="30" width="40" /></a>
@@ -70,44 +72,44 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/c.svg" width="48" height="48" alt="c" />
+        <img src="./assets/img/c.svg" width="48" height="48" alt="c" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/c++.svg" width="48" height="48" alt="c++" />
+        <img src="./assets/img/c++.svg" width="48" height="48" alt="c++" />
       </a>
       <br>C++
     </td>
      <td align="center" width="96">
       <a href="#">
-        <img src="./img/java.png" width="48" height="48" alt="Java" />
+        <img src="./assets/img/java.png" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
          <td align="center" width="96">
       <a href="#">
-        <img src="./img/php.png" width="48" height="48" alt="PHP" />
+        <img src="./assets/img/php.png" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
     </td>
     </td>
          <td align="center" width="96">
       <a href="#">
-        <img src="./img/info-javascript.svg" width="48" height="48" alt="PHP" />
+        <img src="./assets/img/info-javascript.svg" width="48" height="48" alt="PHP" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/info-html.svg" width="48" height="48" alt="HTML" />
+        <img src="./assets/img/info-html.svg" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML5
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/info-css.svg" width="48" height="48" alt="CSS3" />
+        <img src="./assets/img/info-css.svg" width="48" height="48" alt="CSS3" />
       </a>
       <br>CSS3
     </td>
@@ -120,13 +122,13 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/bootstrap-5-1.svg" width="48" height="48" alt="bootstrap" />
+        <img src="./assets/img/bootstrap-5-1.svg" width="48" height="48" alt="bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="img/info-react.svg" width="48" height="48" alt="react" />
+        <img src="./assets/img/info-react.svg" width="48" height="48" alt="react" />
       </a>
       <br>React
     </td>
@@ -139,31 +141,31 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/info-git.svg" width="48" height="48" alt="bootstrap" />
+        <img src="./assets/img/info-git.svg" width="48" height="48" alt="bootstrap" />
       </a>
       <br>git
     </td>
        <td align="center" width="96">
       <a href="#">
-        <img src="./img/info-github.svg" width="48" height="48" alt="bootstrap" />
+        <img src="./assets/img/info-github.svg" width="48" height="48" alt="bootstrap" />
       </a>
       <br>GitHub
     </td>
      <td align="center" width="96">
       <a href="#">
-        <img src="./img/adobe-photoshop.svg" width="48" height="48" alt="ps" />
+        <img src="./assets/img/adobe-photoshop.svg" width="48" height="48" alt="ps" />
       </a>
       <br>Adobe Photoshop
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/adobe-illustrator.svg" width="48" height="48" alt="ps" />
+        <img src="./assets/img/adobe-illustrator.svg" width="48" height="48" alt="ps" />
       </a>
       <br>Adobe Illustratorar
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/vs.png" width="48" height="48" alt="ps" />
+        <img src="./assets/img/vs.png" width="48" height="48" alt="ps" />
       </a>
       <br>Visual Studio
     </td>
@@ -176,13 +178,13 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/sql.png" width="48" height="48" alt="sql" />
+        <img src="./assets/img/sql.png" width="48" height="48" alt="sql" />
       </a>
       <br>SQL
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/mysql.svg" width="48" height="48" alt="mysql" />
+        <img src="./assets/img/mysql.svg" width="48" height="48" alt="mysql" />
       </a>
       <br>MySQL
     </td>
@@ -200,11 +202,12 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 
 <!--Certification Section Start-->
 <h3 align="left" > 👨🏻‍🎓&nbsp;Certifications:</h3>
-<code><img height= "70" alt="certified scrum master" src="./img/IUBAT JS Course Cartificate.jpg"></code>
-<code><img height= "70" alt="certified scrum master" src="./img/Master Git and Github - Beginner to Expert.jpg"></code>
-<code><img height= "70" alt="certified scrum master" src="./img/CNSS certificate.png"></code>
-<code><img height= "70" alt="certified scrum master" src="./img/Pathway to software engineering certificate.png"></code>
-<code><img height= "70" alt="certified scrum master" src="./img/visual identity graphics design certificate.png"></code>
+<code><img height= "70" alt="certificate of ux/ui designer" src="./assets/certificate/IUBAT JS Course Cartificate.jpg"></code>
+<code><img height= "70" alt="certified scrum master" src="./assets/certificate/IUBAT JS Course Cartificate.jpg"></code>
+<code><img height= "70" alt="certified scrum master" src="./assets/certificate/Master Git and Github - Beginner to Expert.jpg"></code>
+<code><img height= "70" alt="certified scrum master" src="./assets/certificate/CNSS certificate.png"></code>
+<code><img height= "70" alt="certified scrum master" src="./assets/certificate/Pathway to software engineering certificate.png"></code>
+<code><img height= "70" alt="certified scrum master" src="./assets/certificate/visual identity graphics design certificate.png"></code>
 <!--Certification Section end-->
 
 ### 🎯 Sports / Game / Activities / Hobby :
