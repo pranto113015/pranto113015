@@ -45,7 +45,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 <!--Body Left Section End-->
 
 <!--Connect with me Section Start-->
-<h3 align="left">&#128073; Connect with me :</h3>
+<h3 align="left"> 🌐 Connect with me :</h3>
 
 <p align="left">
 
@@ -57,7 +57,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 </p>
 <!--Connect with me Section End-->
 
-### 💼 Experience
+### 💼 Experience :
 
 | Position         | Institute             | Duration           | Location       |
 | ---------------- | --------------------- | ------------------ | -------------- |
@@ -192,7 +192,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 </table>
 <!-- Developer Hub section end -->
 
-### 📘 Education
+### 📘 Education :
 
 1. B.Sc. in Computer Science & Engineering (Running),
    IUBAT University  
@@ -201,7 +201,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
    Bogura Polytechnic Institute ,Bogura.
 
 <!--Certification Section Start-->
-<h3 align="left" > 👨🏻‍🎓&nbsp;Certifications:</h3>
+<h3 align="left" > 👨🏻‍🎓&nbsp;Certifications :</h3>
 <code><img height= "70" alt="certificate of ux/ui designer" src="./assets/certificate/UX UI Traning Certificate.jpg"></code>
 <code><img height= "70" alt="certificate of Adobe Photoshop" src="./assets/certificate/Creative it Traning Certificate.jpg"></code>
 <code><img height= "70" alt="certificate of js" src="./assets/certificate/IUBAT JS Course Cartificate.jpg"></code>
@@ -211,7 +211,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 <code><img height= "70" alt="certificate of brightkills" src="./assets/certificate/visual identity graphics design certificate.png"></code>
 <!--Certification Section end-->
 
-### 🎯 Sports / Game / Activities / Hobby
+### 🎯 Sports / Game / Activities / Hobby :
 
 - 🏸 Badminton
 - 🏃‍♂️ Running
@@ -219,9 +219,11 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 - ✈️ Travelling
 - 🌳 Gardening
 
-### 🏅 Honors & Awards
+### 🏅 Honors & Awards :
 
 - 100% Scholarship Freelancing of Adobe Photoshop at Creative It Institute, Dhaka.
+
+### 📊 GitHub Stats :
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranto113015&show_icons=true&locale=en&layout=compact" alt="pranto113015" /></p>
 
