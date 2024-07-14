@@ -169,6 +169,12 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
       </a>
       <br>Visual Studio
     </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/img/xampp.svg" width="48" height="48" alt="ps" />
+      </a>
+      <br>Xampp
+    </td>
     </tr>
 </table>
 
@@ -194,9 +200,10 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 
 ### 📘 Education :
 
-1. B.Sc. in Computer Science & Engineering (Running),
+1. B.Sc. in Computer Science & Engineering (Running) at 
    IUBAT University  
    Uttara Model Town Dhaka, Bangladesh.
+   
 2. Diploma in Computer Science & Technology  
    Bogura Polytechnic Institute ,Bogura.
 
