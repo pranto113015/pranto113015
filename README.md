@@ -130,7 +130,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
       <a href="#">
         <img src="./assets/img/tailwindcss.svg" width="48" height="48" alt="TailwinCSS" />
       </a>
-      <br>TailwinCSS
+      <br>TailwindCSS
     </td>
     <td align="center" width="96">
       <a href="#">
