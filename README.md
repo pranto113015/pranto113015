@@ -126,6 +126,12 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
       </a>
       <br>Bootstrap
     </td>
+        <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/img/tailwindcss.svg" width="48" height="48" alt="TailwinCSS" />
+      </a>
+      <br>TailwinCSS
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="./assets/img/info-react.svg" width="48" height="48" alt="react" />
