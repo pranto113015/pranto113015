@@ -54,10 +54,11 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 <a href="https://instagram.com/sreeprantokumar.saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sreeprantokumar.saha" height="30" width="40" /></a>
 <a href="https://www.behance.net/prantosaha4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="prantosaha4" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@prantosaha6931" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@prantosaha6931" height="30" width="40" /></a>
+
 </p>
 <!--Connect with me Section End-->
 
-### 💼 Experience :
+### 💼 Experience
 
 | Position         | Institute             | Duration           | Location       |
 | ---------------- | --------------------- | ------------------ | -------------- |
@@ -95,12 +96,12 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
       <br>PHP
     </td>
     </td>
-         <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/img/info-javascript.svg" width="48" height="48" alt="PHP" />
-      </a>
-      <br>JavaScript
-    </td>
+          <td align="center" width="96">
+        <a href="#">
+          <img src="./assets/img/info-javascript.svg" width="48" height="48" alt="PHP" />
+        </a>
+        <br>JavaScript
+      </td>
     <td align="center" width="96">
       <a href="#">
         <img src="./assets/img/info-html.svg" width="48" height="48" alt="HTML" />
@@ -204,12 +205,12 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 </table>
 <!-- Developer Hub section end -->
 
-### 📘 Education :
+### 📘 Education
 
-1. B.Sc. in Computer Science & Engineering (Running) at 
+1. B.Sc. in Computer Science & Engineering (Running) at
    IUBAT University  
    Uttara Model Town Dhaka, Bangladesh.
-   
+
 2. Diploma in Computer Science & Technology  
    Bogura Polytechnic Institute ,Bogura.
 
@@ -224,7 +225,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 <code><img height= "70" alt="certificate of brightkills" src="./assets/certificate/visual identity graphics design certificate.png"></code>
 <!--Certification Section end-->
 
-### 🎯 Sports / Game / Activities / Hobby :
+### 🎯 Sports / Game / Activities / Hobby
 
 - 🏸 Badminton
 - 🏃‍♂️ Running
@@ -232,11 +233,11 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 - ✈️ Travelling
 - 🌳 Gardening
 
-### 🏅 Honors & Awards :
+### 🏅 Honors & Awards
 
 - 100% Scholarship Freelancing of Adobe Photoshop at Creative It Institute, Dhaka.
 
-### 📊 GitHub Stats :
+### 📊 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranto113015&show_icons=true&locale=en&layout=compact" alt="pranto113015" /></p>
 
