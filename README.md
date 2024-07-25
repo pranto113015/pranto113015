@@ -49,11 +49,11 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 
 <p align="left">
 
-<a href="https://linkedin.com/in/pranto-kumar-a326801b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranto-kumar-a326801b3" height="30" width="40" /></a>
-<a href="https://fb.com/sreeprantokumar.saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sreeprantokumar.saha" height="30" width="40" /></a>
-<a href="https://instagram.com/sreeprantokumar.saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sreeprantokumar.saha" height="30" width="40" /></a>
-<a href="https://www.behance.net/prantosaha4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="prantosaha4" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@prantosaha6931" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@prantosaha6931" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranto-kumar-a326801b3" target="blank"><img align="center" src="assets/img/linkedin.svg" alt="linkedin id" height="30" width="40" /></a>
+<a href="https://fb.com/sreeprantokumar.saha" target="blank"><img align="center" src="assets/img/facebook.svg" alt="facebook id" height="30" width="40" /></a>
+<a href="https://instagram.com/sreeprantokumar.saha" target="blank"><img align="center" src="assets/img/instagram.svg" alt="instagram id" height="28" width="36" /></a>
+<a href="https://www.behance.net/prantosaha4" target="blank"><img align="center" src="assets/img/behance.svg" alt="behance id" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@prantosaha6931" target="blank"><img align="center" src="assets/img/youtube.svg" alt="@prantosaha6931" height="30" width="40" /></a>
 
 </p>
 <!--Connect with me Section End-->
@@ -62,7 +62,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 
 | Position         | Institute             | Duration           | Location       |
 | ---------------- | --------------------- | ------------------ | -------------- |
-| Campus Ambasador | Creative IT Institute | Nov 2023 - Running | Danmondi,Dhaka |
+| Campus Ambasador | Creative IT Institute | Nov 2023 - Running | Dhanmondi, Dhaka- 1205 |
 
 <!-- Developer Hub section start -->
 <h3 align="left">&#128187; Development Hub / Skills :</h3>
@@ -70,10 +70,11 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 > Progamming languages :
 
 <table>
+
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./assets/img/c.svg" width="48" height="48" alt="c" />
+        <img src="./assets/img/C Language.svg" width="48" height="48" alt="c" />
       </a>
       <br>C
     </td>
@@ -91,16 +92,22 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
     </td>
          <td align="center" width="96">
       <a href="#">
-        <img src="./assets/img/php.png" width="48" height="48" alt="PHP" />
+        <img src="./assets/img/php.svg" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
     </td>
     </td>
-          <td align="center" width="96">
+     <td align="center" width="96">
         <a href="#">
           <img src="./assets/img/info-javascript.svg" width="48" height="48" alt="PHP" />
         </a>
         <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="./assets/img/python.svg" width="48" height="48" alt="Python" />
+        </a>
+        <br>Python
       </td>
     <td align="center" width="96">
       <a href="#">
@@ -115,6 +122,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
       <br>CSS3
     </td>
   </tr>
+  
 </table>
 
 > Frameworks and libraries :
@@ -172,7 +180,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./assets/img/vs.png" width="48" height="48" alt="ps" />
+        <img src="./assets/img/vscode.svg" width="48" height="48" alt="ps" />
       </a>
       <br>Visual Studio
     </td>
@@ -235,7 +243,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 
 ### 🏅 Honors & Awards
 
-- 100% Scholarship Freelancing of Adobe Photoshop at Creative It Institute, Dhaka.
+- 100% Scholarship Freelancing of Adobe Photoshop Certified Course at Creative It Institute, Dhaka.
 
 ### 📊 GitHub Stats
 
