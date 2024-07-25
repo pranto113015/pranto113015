@@ -60,8 +60,8 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 
 ### 💼 Experience
 
-| Position         | Institute             | Duration           | Location       |
-| ---------------- | --------------------- | ------------------ | -------------- |
+| Position         | Institute             | Duration           | Location               |
+| ---------------- | --------------------- | ------------------ | ---------------------- |
 | Campus Ambasador | Creative IT Institute | Nov 2023 - Running | Dhanmondi, Dhaka- 1205 |
 
 <!-- Developer Hub section start -->
@@ -253,9 +253,8 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranto113015&" alt="pranto113015" /></p>
 
----
-
-Thanks for going through my personal Portfolio.
-All rights reserved by [Pranto Kumar](https://www.linkedin.com/in/pranto-kumar-a326801b3/) @ 2024
-
----
+<!-- footer section start -->
+<hr>
+<p align="center"> Thanks for going through my personal Portfolio .
+All rights reserved by <a href="https://www.linkedin.com/in/pranto-kumar-a326801b3/">Pranto Kumar</a> @ 2019 - 2024</p>
+<!-- footer section end -->
