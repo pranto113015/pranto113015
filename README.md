@@ -125,7 +125,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
   
 </table>
 
-> Frameworks and libraries :
+> Frameworks & Libraries : 
 
 <table>
   <tr>
@@ -146,6 +146,19 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
         <img src="./assets/img/info-react.svg" width="48" height="48" alt="react" />
       </a>
       <br>React
+    </td>
+        <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/img/nodejs.svg" width="48" height="48" alt="Node.Js" />
+      </a>
+      <br>Node.js
+    </td>
+       </td>
+        <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/img/npm.svg" width="48" height="48" alt="react" />
+      </a>
+      <br>Npm
     </td>
     </tr>
 </table>
