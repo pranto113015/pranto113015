@@ -44,20 +44,18 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 - ⚡ Fun fact **So much discus do when i learn new skills**
 <!--Body Left Section End-->
 
+
 <!--Connect with me Section Start-->
 <h3 align="left"> 🌐 Connect with me :</h3>
 
-<p align="left">
-
-<a href="https://linkedin.com/in/pranto-kumar-a326801b3" target="blank"><img align="center" src="assets/img/linkedin.svg" alt="linkedin id" height="30" width="40" /></a>
-<a href="https://fb.com/sreeprantokumar.saha" target="blank"><img align="center" src="assets/img/facebook.svg" alt="facebook id" height="30" width="40" /></a>
-<a href="https://instagram.com/sreeprantokumar.saha" target="blank"><img align="center" src="assets/img/instagram.svg" alt="instagram id" height="28" width="36" /></a>
-<a href="https://x.com/PK_Pranto_kumar" target="blank"><img align="center" src="assets/img/twitter.svg" alt="instagram id" height="33" width="44" /></a>
-<a href="https://www.behance.net/prantosaha4" target="blank"><img align="center" src="assets/img/behance.svg" alt="behance id" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@prantosaha6931" target="blank"><img align="center" src="assets/img/youtube.svg" alt="@prantosaha6931" height="30" width="40" /></a>
-
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/sreeprantokumar.saha)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sreeprantokumar.saha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranto-kumar-a326801b3)
+[![Behance](https://img.shields.io/badge/Behance-%230077B5.svg?logo=behance&logoColor=white)](https://www.behance.net/prantosaha4)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PK_Pranto_kumar)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@prantosaha6931)
 <!--Connect with me Section End-->
+
 
 ### 💼 Experience
 
