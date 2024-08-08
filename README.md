@@ -8,7 +8,7 @@
 <h1 align="center">Hi ,<img src="./assets/img/Wave.gif" height="50px" width="50px">I'm a Front-End Developer</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F29F7&background=FF1E1100&center=true&vCenter=true&width=435&lines=welcome+to+visit+my+profile;Nice+to+meet+you+" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=435&height=70&duration=4000&lines=welcome+to+visit+my+profile;+Nice+to+meet+you;"/>
 <!--Title & Typography Section End-->
 
 <!--pofiel view Section start-->
@@ -126,7 +126,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
   
 </table>
 
-> Frameworks & Libraries : 
+> Frameworks & Libraries :
 
 <table>
   <tr>
