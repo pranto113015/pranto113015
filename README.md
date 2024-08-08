@@ -35,13 +35,13 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 
 - 📚 I’m currently learning **[BCSE](https://cse.iubat.edu/)**
 
-- 👨‍💻 I'm currently working **Front-End Development**
+- 👨‍💻 I'm currently working **Front-End Web Development**
 
 - 💬 Ask me about **Web Related**
 
 - 📫 How to reach me **<pranto113015@gmail.com>**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **So much discus do when i learn new skills**
 <!--Body Left Section End-->
 
 <!--Connect with me Section Start-->
