@@ -63,166 +63,45 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 | ---------------- | --------------------- | ------------------ | ---------------------- |
 | Campus Ambasador | Creative IT Institute | Nov 2023 - Running | Dhanmondi, Dhaka- 1205 |
 
+
 <!-- Developer Hub section start -->
 <h3 align="left">&#128187; Development Hub / Skills :</h3>
 
-> Progamming languages :
+**Progamming languages :**
 
-<table>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/img/C Language.svg" width="48" height="48" alt="c" />
-      </a>
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/img/c++.svg" width="48" height="48" alt="c++" />
-      </a>
-      <br>C++
-    </td>
-     <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/img/java.png" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-         <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/img/php.svg" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-    </td>
-     <td align="center" width="96">
-        <a href="#">
-          <img src="./assets/img/info-javascript.svg" width="48" height="48" alt="PHP" />
-        </a>
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="./assets/img/python.svg" width="48" height="48" alt="Python" />
-        </a>
-        <br>Python
-      </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/img/info-html.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/img/info-css.svg" width="48" height="48" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>
-  </tr>
-  
-</table>
+**Frameworks & Libraries :**
 
-> Frameworks & Libraries :
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/img/bootstrap-5-1.svg" width="48" height="48" alt="bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-        <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/img/tailwindcss.svg" width="48" height="48" alt="TailwinCSS" />
-      </a>
-      <br>TailwindCSS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/img/info-react.svg" width="48" height="48" alt="react" />
-      </a>
-      <br>React
-    </td>
-        <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/img/nodejs.svg" width="48" height="48" alt="Node.Js" />
-      </a>
-      <br>Node.js
-    </td>
-       </td>
-        <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/img/npm.svg" width="48" height="48" alt="react" />
-      </a>
-      <br>Npm
-    </td>
-    </tr>
-</table>
 
-> Software and Tools :
+**Software and Tools :**
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/img/info-git.svg" width="48" height="48" alt="bootstrap" />
-      </a>
-      <br>git
-    </td>
-       <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/img/info-github.svg" width="48" height="48" alt="bootstrap" />
-      </a>
-      <br>GitHub
-    </td>
-     <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/img/adobe-photoshop.svg" width="48" height="48" alt="ps" />
-      </a>
-      <br>Adobe Photoshop
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/img/adobe-illustrator.svg" width="48" height="48" alt="ps" />
-      </a>
-      <br>Adobe Illustratorar
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/img/vscode.svg" width="48" height="48" alt="ps" />
-      </a>
-      <br>Visual Studio
-    </td>
-     <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/img/xampp.svg" width="48" height="48" alt="ps" />
-      </a>
-      <br>Xampp
-    </td>
-    </tr>
-</table>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-> Databases and cloud hosting :
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/img/sql.png" width="48" height="48" alt="sql" />
-      </a>
-      <br>SQL
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/img/mysql.svg" width="48" height="48" alt="mysql" />
-      </a>
-      <br>MySQL
-    </td>
-    </tr>
-</table>
+**Databases and cloud hosting :**
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <!-- Developer Hub section end -->
 
 ### 📘 Education
