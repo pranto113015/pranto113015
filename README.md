@@ -1,6 +1,6 @@
 <!--Banar Section Start-->
 
-![logo](./assets/img/github-bannar2.png)
+![logo](./assets/img/github-bannar3.png)
 
 <!--Banar Section End-->
 
