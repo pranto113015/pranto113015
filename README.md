@@ -127,7 +127,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 <code><img height= "70" alt="certificate of git & github" src="./assets/certificate/VSCode shortcuts & extensions for Web developer.jpg"></code>
 <code><img height= "70" alt="certificate of git & github" src="./assets/certificate/Full stack development with mern.png"></code>
 <code><img height= "70" alt="certificate of networking" src="./assets/certificate/CNSS certificate.png"></code>
-<code><img height= "70" alt="certificate of pathway of software engineering" src="./assets/certificate/Pathway to software engineering certificate.png"></code>
+<code><img height= "70" alt="certificate of pathway of software engineering" src="./assets/certificate/python_with_django_training_certificate.jpg"></code>
 <!--Certification Section end-->
 
 ### 🎯 Sports / Game / Activities / Hobby
