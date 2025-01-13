@@ -35,7 +35,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 
 - 📚 I’m currently learning **[BCSE](https://cse.iubat.edu/)**
 
-- 👨‍💻 I'm currently working **Front-End Web Development**
+- 👨‍💻 I'm currently working **Front-End Development(JS)**
 
 - 💬 Ask me about **Web Related**
 
