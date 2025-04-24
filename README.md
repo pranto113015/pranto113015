@@ -150,6 +150,9 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranto113015&" alt="pranto113015" /></p>
 
+[![pranto113015 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranto113015&bg_color=050004&color=eceaeb&line=4cee49&point=faf5f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <!-- footer section start -->
 <hr>
 <p align="center"> Thanks for going through my personal Portfolio .
