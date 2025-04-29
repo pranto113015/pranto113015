@@ -157,4 +157,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 <hr>
 <p align="center"> Thanks for going through my personal Portfolio .
 All rights reserved by :blue_heart: <a href="https://www.linkedin.com/in/pranto-kumar-a326801b3/">Pranto Kumar</a> @ 2019 - 2025 </p>
+
+![logo](./assets/img/footer%20img.svg)
+
 <!-- footer section end -->
