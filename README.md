@@ -5,7 +5,7 @@
 <!--Banar Section End-->
 
 <!--Title & Typography Section End-->
-<h1 align="center">Hi ,<img src="./assets/img/Wave.gif" height="50px" width="50px">I'm a Front-End Developer</h1>
+<h1 align="center">Hi ,<img src="./assets/img/Wave.gif" height="50px" width="50px">I'm a Front-End Web Developer</h1>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=435&height=70&duration=4000&lines=welcome+to+visit+my+profile;+Nice+to+meet+you;"/>
@@ -19,7 +19,7 @@
 <h3 align="center">My passion is Front-end Developer</h3>
 <p>I'm Pranto, a <b>Front-End Developer</b>  and Graphics Designer from Bangladesh. I accomplished the 4 years Diploma-in engineering of Computer Science and Technology at Bogura Polytechnic Institute, Bogura. I Spend most of time coding outstanding projects or Creative Design. In terms of experience, I have served as a Campus Ambassador at Creative IT Institute. During my time there from March 2022 to April 2023.
 
-Throughout my academic journey, I have participated in Goverment Training Skill Development for Mobile Game & Application Project (UX/UI Design), ICT Division.
+Throughout My Academic Journey, I Have Participated In Government Training Skill Development For Mobile Game & Application Project (UX/UI Design), ICT Division, And Also Participated In Enhancing Digital Government And Economy (EDGE), A Project Of The Bangladesh Computer Council (BCC) Under The ICT Division Project (Front-End Development ReactJS).
 
 I have a strong command of programming languages such as C, C++, Java and JavaScript. I am proficient in concepts related to Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOP). Additionally, I have hands-on experience with technologies and tools like HTML, CSS, Bootstrap, jQuery, Java Script and MySQL.</p>
 
@@ -33,9 +33,9 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 
 - 👨‍🎓 I’m currently a Student at **[IUBAT University](https://iubat.edu/)**
 
-- 📚 I’m currently learning **[BCSE](https://cse.iubat.edu/)**
+- 📚 I'm currently studying of the department **[BCSE](https://cse.iubat.edu/)**
 
-- 👨‍💻 I'm currently working **Front-End Development(JS)**
+- 👨‍💻 I'm currently working **Front-End Development React JS**
 
 - 💬 Ask me about **Web Related**
 
