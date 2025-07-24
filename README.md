@@ -19,7 +19,7 @@
 <h3 align="center">My passion is Front-end Developer</h3>
 <p>I'm Pranto, a <b>Front-End Developer</b>  and Graphics Designer from Bangladesh. I accomplished the 4 years Diploma-in engineering of Computer Science and Technology at Bogura Polytechnic Institute, Bogura. I Spend most of time coding outstanding projects or Creative Design. In terms of experience, I have served as a Campus Ambassador at Creative IT Institute. During my time there from March 2022 to April 2023.
 
-Throughout My Academic Journey, I Have Participated In Government Training Skill Development For Mobile Game & Application Project (UX/UI Design), ICT Division, And Also Participated In Enhancing Digital Government And Economy (EDGE), A Project Of The Bangladesh Computer Council (BCC) Under The ICT Division Project (Front-End Development ReactJS).
+Throughout my academic journey, I have participated in government skill development training under the Mobile Game & Application Project **UX/UI Design**, organized by the ICT Division. I have also successfully completed an 80-hour training on **Web Development Essentials**, conducted by the Department of Computer Science and Engineering (CSE), Jagannath University, from October 2024 to May 2025, under the Enhancing Digital Government and Economy (EDGE) Project of the Bangladesh Computer Council, ICT Division.
 
 I have a strong command of programming languages such as C, C++, Java and JavaScript. I am proficient in concepts related to Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOP). Additionally, I have hands-on experience with technologies and tools like HTML, CSS, Bootstrap, jQuery, Java Script and MySQL.</p>
 
@@ -120,6 +120,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 
 <!--Certification Section Start-->
 <h3 align="left" > 👨🏻‍🎓&nbsp;Certifications :</h3>
+<code><img height= "70" alt="web development essentials certificate edge" src="./assets/certificate/web_development_essentials_certificate_edge_prantokumar.png"></code>
 <code><img height= "70" alt="certificate of ux/ui designer" src="./assets/certificate/UX UI Traning Certificate.jpg"></code>
 <code><img height= "70" alt="certificate of Adobe Photoshop" src="./assets/certificate/Creative it Traning Certificate.jpg"></code>
 <code><img height= "70" alt="certificate of js" src="./assets/certificate/IUBAT JS Course Cartificate.jpg"></code>
