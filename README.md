@@ -121,7 +121,7 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 
 ## 🎓 Education
 
-### 💻 B.Sc. in Computer Science & Engineering (CSE)
+#### 💻 B.Sc. in Computer Science & Engineering (CSE)
 **IUBAT – International University of Business Agriculture and Technology**, Uttara Model Town, Dhaka, Bangladesh  
 📅 2022 – Present | 🎯 **Running CGPA:** 3.53 / 4.00  
 📚 Status: **Ongoing**
