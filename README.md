@@ -57,17 +57,25 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 <!--Connect with me Section End-->
 
 
-### 💼 Experience
+## 💼 Experience
 
-| Position         | Institute             | Duration           | Location               |
-| ---------------- | --------------------- | ------------------ | ---------------------- |
-| Campus Ambasador | Creative IT Institute | Nov 2023 - Running | Dhanmondi, Dhaka- 1205 |
+| Position          | Institute             | Duration            | Location               |
+| ----------------- | --------------------- | --------------------| ---------------------- |
+| Campus Ambassador | Creative IT Institute | Nov 2022 - Jun 2025 | Dhanmondi, Dhaka-1205  |
+
+#### 🎯 Campus Ambassador – Key Achievements
+- 🗣️ Represented the institute at university and tech events, promoting IT training programs  
+- 📢 Organized and hosted workshops, seminars, and info sessions  
+- 🤝 Strengthened communication, teamwork, and public speaking skills  
+- 🌐 Built awareness of tech education among students across various campuses
+
+
 
 
 <!-- Developer Hub section start -->
-<h3 align="left">&#128187; Development Hub / Skills :</h3>
+## 🧰 Tech Stack
 
-**Progamming languages :**
+**Core Progamming languages :**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -109,14 +117,29 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <!-- Developer Hub section end -->
 
-### 📘 Education
 
-1. B.Sc. in Computer Science & Engineering (Running) at
-   IUBAT University  
-   Uttara Model Town Dhaka, Bangladesh.
 
-2. Diploma in Computer Science & Technology  
-   Bogura Polytechnic Institute ,Bogura.
+## 🎓 Education
+
+### 💻 B.Sc. in Computer Science & Engineering (CSE)
+**IUBAT – International University of Business Agriculture and Technology**, Uttara Model Town, Dhaka, Bangladesh  
+📅 2022 – Present | 🎯 **Running CGPA:** 3.53 / 4.00  
+📚 Status: **Ongoing**
+
+- Studying core areas including algorithms, databases, software engineering, and web technologies  
+- Actively participating in academic projects and development-focused coursework  
+
+
+
+#### 💻 Diploma in Computer Science & Technology  
+**Bogura Polytechnic Institute**, Bogura, Rajshahi ,Bangladesh  
+📅 2016 – 2020 | 🎯 **CGPA:** 3.83 / 4.00  
+📚 Status: **Completed**
+
+- Specialized in software development, data structures, networking, and system design  
+- Gained strong hands-on experience through practical labs and real-world projects  
+
+
 
 <!--Certification Section Start-->
 <h3 align="left" > 👨🏻‍🎓&nbsp;Certifications :</h3>
