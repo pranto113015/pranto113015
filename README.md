@@ -16,12 +16,25 @@
 <!--pofiel view Section end-->
 
 <!-- Header subtitle area start -->
-<h3 align="center">My passion is Front-end Developer</h3>
-<p>I'm Pranto, a <b>Front-End Developer</b>  and Graphics Designer from Bangladesh. I accomplished the 4 years Diploma-in engineering of Computer Science and Technology at Bogura Polytechnic Institute, Bogura. I Spend most of time coding outstanding projects or Creative Design. In terms of experience, I have served as a Campus Ambassador at Creative IT Institute. During my time there from March 2022 to April 2023.
+<section align="center" style="text-align: justify;">
+  <h3 style="text-align: center;">💻 Passionate about coding, creating, and continuous learning.</h3>
 
-Throughout my academic journey, I have participated in government skill development training under the Mobile Game & Application Project **UX/UI Design**, organized by the ICT Division. I have also successfully completed an 80-hour training on **Web Development Essentials**, conducted by the Department of Computer Science and Engineering (CSE), Jagannath University, from October 2024 to May 2025, under the Enhancing Digital Government and Economy (EDGE) Project of the Bangladesh Computer Council, ICT Division.
+  <p>
+    👋 I'm <strong>Pranto</strong>, a <strong>Front-End Developer</strong> and <strong>Graphics Designer</strong> from Bangladesh. I completed a 4-year Diploma in Computer Science and Technology at <strong>Bogura Polytechnic Institute</strong>. I spend most of my time coding innovative projects 💡 or crafting creative designs 🎨.
+  </p>
 
-I have a strong command of programming languages such as C, C++, Java and JavaScript. I am proficient in concepts related to Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOP). Additionally, I have hands-on experience with technologies and tools like HTML, CSS, Bootstrap, jQuery, Java Script and MySQL.</p>
+  <p>
+    🎓 I served as a <strong>Campus Ambassador</strong> at <strong>Creative IT Institute</strong> from March 2022 to April 2023. Throughout my academic journey, I participated in government skill development training under the <strong>Mobile Game & Application Project (UX/UI Design)</strong> 🕹️ organized by the ICT Division.
+  </p>
+
+  <p>
+    🖥️ I also completed an 80-hour training on <strong>Web Development Essentials</strong>, conducted by the Department of Computer Science and Engineering (CSE), Jagannath University, from October 2024 to May 2025, under the <strong>Enhancing Digital Government and Economy (EDGE) Project</strong> of the Bangladesh Computer Council, ICT Division.
+  </p>
+
+  <p>
+    💡 I have strong command over programming languages like <strong>C, C++, Java, and JavaScript</strong>, and am proficient in <strong>Data Structures & Algorithms (DSA)</strong> 📚 and <strong>Object-Oriented Programming (OOP)</strong>. Additionally, I have hands-on experience with technologies and tools such as <strong>HTML, CSS, Bootstrap, JavaScript, and MySQL</strong> 🛠️.
+  </p>
+</section>
 
 <!-- Header subtitle area end -->
 
@@ -44,60 +57,70 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 - ⚡ Fun fact **So much discus do when i learn new skills**
 <!--Body Left Section End-->
 
-
 <!--Connect with me Section Start-->
 <h3 align="left"> 🌐 Connect with me :</h3>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranto-kumar-a326801b3)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC.svg?logo=Google-Chrome&logoColor=white)](https://prantokumar.netlify.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/sreeprantokumar.saha)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sreeprantokumar.saha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranto-kumar-a326801b3)
 [![Behance](https://img.shields.io/badge/Behance-%230077B5.svg?logo=behance&logoColor=white)](https://www.behance.net/prantosaha4)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PK_Pranto_kumar)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@prantosaha6931)
-<!--Connect with me Section End-->
 
+<!--Connect with me Section End-->
 
 ## 💼 Experience
 
-| Position          | Institute             | Duration            | Location               |
-| ----------------- | --------------------- | --------------------| ---------------------- |
-| Campus Ambassador | Creative IT Institute | Nov 2022 - Jun 2025 | Dhanmondi, Dhaka-1205  |
+| Position          | Institute             | Duration            | Location              |
+| ----------------- | --------------------- | ------------------- | --------------------- |
+| Campus Ambassador | Creative IT Institute | Nov 2022 - Jun 2025 | Dhanmondi, Dhaka-1205 |
 
 #### 🎯 Campus Ambassador – Key Achievements
-- 🗣️ Represented the institute at university and tech events, promoting IT training programs  
-- 📢 Organized and hosted workshops, seminars, and info sessions  
-- 🤝 Strengthened communication, teamwork, and public speaking skills  
+
+- 🗣️ Represented the institute at university and tech events, promoting IT training programs
+- 📢 Organized and hosted workshops, seminars, and info sessions
+- 🤝 Strengthened communication, teamwork, and public speaking skills
 - 🌐 Built awareness of tech education among students across various campuses
 
-
-
-
 <!-- Developer Hub section start -->
+
 ## 🧰 Tech Stack
 
 **Core Progamming languages :**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Frondend Frameworks & Libraries :**
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Libraries :**
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
+**Backend :**
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
+
+**Databases and cloud hosting :**
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Software and Tools :**
 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
@@ -106,40 +129,31 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-
-
-**Databases and cloud hosting :**
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <!-- Developer Hub section end -->
-
-
 
 ## 🎓 Education
 
 #### 💻 B.Sc. in Computer Science & Engineering (CSE)
+
 **IUBAT – International University of Business Agriculture and Technology**, Uttara Model Town, Dhaka, Bangladesh  
 📅 2022 – Present | 🎯 **Running CGPA:** 3.53 / 4.00  
 📚 Status: **Ongoing**
 
-- Studying core areas including algorithms, databases, software engineering, and web technologies  
-- Actively participating in academic projects and development-focused coursework  
+- Studying core areas including algorithms, databases, software engineering, and web technologies
+- Actively participating in academic projects and development-focused coursework
 
+#### 💻 Diploma in Computer Science & Technology
 
-
-#### 💻 Diploma in Computer Science & Technology  
 **Bogura Polytechnic Institute**, Bogura, Rajshahi ,Bangladesh  
 📅 2016 – 2020 | 🎯 **CGPA:** 3.83 / 4.00  
 📚 Status: **Completed**
 
-- Specialized in software development, data structures, networking, and system design  
-- Gained strong hands-on experience through practical labs and real-world projects  
-
-
+- Specialized in software development, data structures, networking, and system design
+- Gained strong hands-on experience through practical labs and real-world projects
 
 <!--Certification Section Start-->
 <h3 align="left" > 👨🏻‍🎓&nbsp;Certifications :</h3>
@@ -154,17 +168,20 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 <code><img height= "70" alt="certificate of pathway of software engineering" src="./assets/certificate/python_with_django_training_certificate.jpg"></code>
 <!--Certification Section end-->
 
-### 🎯 Sports / Game / Activities / Hobby
+<section>
+  <h3>🎯 Interests & Activities</h3>
+  <p>
+    <strong>Sports & Fitness:</strong> 🏸 Badminton | 🏃‍♂️ Running | 🚶‍♂️ Walking<br>
+    <strong>Leisure & Lifestyle:</strong> ✈️ Travelling | 🌳 Gardening
+  </p>
+</section>
 
-- 🏸 Badminton
-- 🏃‍♂️ Running
-- 🚶‍♂️ Walking
-- ✈️ Travelling
-- 🌳 Gardening
-
-### 🏅 Honors & Awards
-
-- 100% Scholarship Freelancing of Adobe Photoshop Certified Course at Creative It Institute, Dhaka.
+<section>
+  <h3>🏅 Honors & Awards</h3>
+  <p>
+    <strong>🎓 100% Scholarship</strong> – Freelancing & Adobe Photoshop Certified Course, Creative IT Institute, Dhaka
+  </p>
+</section>
 
 ### 📊 GitHub Stats
 
@@ -175,7 +192,6 @@ I have a strong command of programming languages such as C, C++, Java and JavaSc
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranto113015&" alt="pranto113015" /></p>
 
 [![pranto113015 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranto113015&bg_color=050004&color=eceaeb&line=4cee49&point=faf5f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <!-- footer section start -->
 <hr>
