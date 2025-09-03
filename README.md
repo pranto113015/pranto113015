@@ -139,18 +139,20 @@
 
 #### 💻 B.Sc. in Computer Science & Engineering (CSE)
 
-<a href="https://iubat.edu/" target="_blank" style="text-decoration:none; color:inherit; font-weight:bold;">IUBAT – International University of Business Agriculture and Technology</a>, Uttara Model Town, Dhaka, Bangladesh  
+**IUBAT – International University of Business Agriculture and Technology**, Uttara Model Town, Dhaka, Bangladesh  
 📅 2022 – Present | 🎯 **Running CGPA:** 3.53 / 4.00  
 📚 Status: **Ongoing**
+⏳ Duration: 4 Years
 
 - Studying core areas including algorithms, databases, software engineering, and web technologies
 - Actively participating in academic projects and development-focused coursework
 
 #### 💻 Diploma in Computer Science & Technology
 
-<a href="https://bogura.polytech.gov.bd/" target="_blank" style="text-decoration:none; color:inherit; font-weight:bold;">Bogura Polytechnic Institute</a>, Bogura, Rajshahi, Bangladesh  
+**Bogura Polytechnique Institute**, Bogura, Rahjshahi, Bangladesh  
 📅 2016 – 2020 | 🎯 **CGPA:** 3.83 / 4.00  
 📚 Status: **Completed**
+⏳ Duration: 4 Years
 
 - Specialized in software development, data structures, networking, and system design
 - Gained strong hands-on experience through practical labs and real-world projects
