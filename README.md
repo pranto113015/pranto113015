@@ -195,8 +195,15 @@
 
 <!-- footer section start -->
 <hr>
-<p align="center"> Thanks for going through my personal Portfolio .
-All rights reserved by :blue_heart: <a href="https://www.linkedin.com/in/pranto-kumar-a326801b3/">Pranto Kumar</a> @ 2019 - 2025 </p>
+<p align="center">
+  Thanks for going through my personal Portfolio. <br>
+  All rights reserved by 💙 
+  <a href="https://www.linkedin.com/in/pranto-kumar-a326801b3/">Pranto Kumar</a> @ 2019 - <span id="currentYear"></span>
+</p>
+
+<script>
+  document.getElementById('currentYear').textContent = new Date().getFullYear();
+</script>
 
 ![logo](./assets/img/footer%20img.svg)
 
