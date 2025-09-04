@@ -61,7 +61,7 @@
 <h3 align="left"> 🌐 Connect with me :</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranto-kumar-a326801b3)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC.svg?logo=Google-Chrome&logoColor=white)](https://prantokumar.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC.svg?logo=googleearth&logoColor=white)](https://prantokumar.netlify.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/sreeprantokumar.saha)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sreeprantokumar.saha)
 [![Behance](https://img.shields.io/badge/Behance-%230077B5.svg?logo=behance&logoColor=white)](https://www.behance.net/prantosaha4)
@@ -101,6 +101,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -140,19 +141,17 @@
 #### 💻 B.Sc. in Computer Science & Engineering (CSE)
 
 **IUBAT – International University of Business Agriculture and Technology**, Uttara Model Town, Dhaka, Bangladesh  
-📅 2022 – Present | 🎯 **Running CGPA:** 3.53 / 4.00  
-📚 Status: **Ongoing**
-⏳ Duration: 4 Years
+📅 2022 – Present | 🎯 Running CGPA: 3.53 / 4.00  
+⏳ Duration: 4 Years | 📚 Status: **Ongoing**
 
 - Studying core areas including algorithms, databases, software engineering, and web technologies
 - Actively participating in academic projects and development-focused coursework
 
 #### 💻 Diploma in Computer Science & Technology
 
-**Bogura Polytechnique Institute**, Bogura, Rahjshahi, Bangladesh  
-📅 2016 – 2020 | 🎯 **CGPA:** 3.83 / 4.00  
-📚 Status: **Completed**
-⏳ Duration: 4 Years
+**Bogura Polytechnique Institute**, Bogura, Rajshahi, Bangladesh  
+📅 2016 – 2020 | 🎯 CGPA: 3.83 / 4.00  
+⏳ Duration: 4 Years | 📚 Status: **Completed**
 
 - Specialized in software development, data structures, networking, and system design
 - Gained strong hands-on experience through practical labs and real-world projects
