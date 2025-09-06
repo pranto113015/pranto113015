@@ -1,6 +1,6 @@
 <!--Banar Section Start-->
 
-![logo](./assets/img/github-bannar4.png)
+![logo](./assets/img/github-bannar.png)
 
 <!--Banar Section End-->
 
@@ -157,28 +157,32 @@
 - Gained strong hands-on experience through practical labs and real-world projects
 
 <!--Certification Section Start-->
-<h3 align="left" > 👨🏻‍🎓&nbsp;Certifications :</h3>
-<code><img height= "70" alt="web development essentials certificate edge" src="./assets/certificate/web_development_essentials_certificate_edge_prantokumar.png"></code>
-<code><img height= "70" alt="certificate of ux/ui designer" src="./assets/certificate/UX UI Traning Certificate.jpg"></code>
-<code><img height= "70" alt="certificate of Adobe Photoshop" src="./assets/certificate/Creative it Traning Certificate.jpg"></code>
-<code><img height= "70" alt="certificate of js" src="./assets/certificate/IUBAT JS Course Cartificate.jpg"></code>
-<code><img height= "70" alt="certificate of git & github" src="./assets/certificate/Master Git and Github - Beginner to Expert.jpg"></code>
-<code><img height= "70" alt="certificate of git & github" src="./assets/certificate/VSCode shortcuts & extensions for Web developer.jpg"></code>
-<code><img height= "70" alt="certificate of git & github" src="./assets/certificate/Full stack development with mern.png"></code>
-<code><img height= "70" alt="certificate of networking" src="./assets/certificate/CNSS certificate.png"></code>
-<code><img height= "70" alt="certificate of pathway of software engineering" src="./assets/certificate/python_with_django_training_certificate.jpg"></code>
+
+## 👨🏻‍🎓 Certifications & Training
+
+| Licenses & Certifications              | Issuing Organization                                                         | Year | Credential ID / Link                                                                                   |
+| -------------------------------------- | ---------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------ |
+| Web Development Essentials             | EDGE Project of the Bangladesh Computer Council (BCC) Under the ICT Division | 2025 | [View Certificate](https://drive.google.com/file/d/1hfVl_0NC8RY_IMV9fdnNX07inpo1GgU0/view?usp=sharing) |
+| Master Git and Github                  | udemy                                                                        | 2024 | [View Certificate](https://drive.google.com/file/d/12azxDov7E5Voh8fmi78sE6U1xdO1yI0V/view?usp=sharing) |
+| Full Stack Development with MERN       | CodersTrust and GpAcademy                                                    | 2024 | [View Certificate](https://drive.google.com/file/d/1wzX6Ow0pqbqSk0MLMwVC-T03FJOyJgci/view)             |
+| Front-end Development using JavaScript | IUBAT University Department of Computr Science and Engineering (CSE)         | 2023 | [View Certificate](https://drive.google.com/file/d/14xZQfgzZRoIbJkjL9CVDCRbbgEv0Q46J/view?usp=sharing) |
+| Adobe Photoshop                        | Creative IT Institute, Uttara Campus, Dhaka.                                 | 2022 | [View Certificate](https://drive.google.com/file/d/1Eh08IYEeQBPdk2l-9zzB3IncnpMRJWuG/view)             |
+| UX/UI Design                           | Skill Development for Mobile Game & Application Project, ICT Division        | 2018 | [View Certificate](https://drive.google.com/file/d/1xJQvLMxoo-VEGTBDPvlwwdvmUUG_VFLO/view)             |
+
 <!--Certification Section end-->
 
+## 🎯 Interests & Activities
+
 <section>
-  <h3>🎯 Interests & Activities</h3>
   <p>
     <strong>Sports & Fitness:</strong> 🏸 Badminton | 🏃‍♂️ Running | 🚶‍♂️ Walking<br>
     <strong>Leisure & Lifestyle:</strong> ✈️ Travelling | 🌳 Gardening
   </p>
 </section>
 
+## 🏅 Honors & Awards
+
 <section>
-  <h3>🏅 Honors & Awards</h3>
   <p>
     <strong>🎓 100% Scholarship</strong> – Freelancing & Adobe Photoshop Certified Course, Creative IT Institute, Dhaka
   </p>
