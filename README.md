@@ -72,9 +72,9 @@
 
 ## 💼 Experience
 
-| Position          | Institute             | Duration            | Location              |
-| ----------------- | --------------------- | ------------------- | --------------------- |
-| Campus Ambassador | Creative IT Institute | Nov 2022 - Jun 2025 | Dhanmondi, Dhaka-1205 |
+| Position          | Institute             | Duration            | Location              | Credential ID / Link                                                                                   |
+| ----------------- | --------------------- | ------------------- | --------------------- | ------------------------------------------------------------------------------------------------------ |
+| Campus Ambassador | Creative IT Institute | Nov 2022 - Jun 2025 | Dhanmondi, Dhaka-1205 | [View Certificate](https://drive.google.com/file/d/1Ov0Vjtw5AJhgdktFKng0FHgJNqS25J3r/view?usp=sharing) |
 
 #### 🎯 Campus Ambassador – Key Achievements
 
