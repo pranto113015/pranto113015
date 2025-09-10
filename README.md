@@ -188,6 +188,14 @@
   </p>
 </section>
 
+## 💡 Quote of the Day
+
+<div align="center">
+  <em>“Every error is an opportunity to learn. Don't be afraid to make mistakes; they're part of the coding process.”</em>  
+  <br/><br/>
+  <strong> — Pranto Kumar</strong>
+</div>
+
 ## 📊 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranto113015&show_icons=true&locale=en&layout=compact" alt="pranto113015" /></p>
