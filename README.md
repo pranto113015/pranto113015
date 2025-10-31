@@ -72,9 +72,10 @@
 
 ## 💼 Experience
 
-| Position          | Institute             | Duration            | Location              | Credential ID / Link                                                                                   |
-| ----------------- | --------------------- | ------------------- | --------------------- | ------------------------------------------------------------------------------------------------------ |
-| Campus Ambassador | Creative IT Institute | Nov 2022 - Jun 2025 | Dhanmondi, Dhaka-1205 | [View Certificate](https://drive.google.com/file/d/1Ov0Vjtw5AJhgdktFKng0FHgJNqS25J3r/view?usp=sharing) |
+| Position               | Institute             | Duration            | Location                | Credential ID / Link                                                                                   |
+| ---------------------- | --------------------- | ------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------ |
+| Campus Ambassador      | Creative IT Institute | Nov 2022 - Jun 2025 | Dhanmondi, Dhaka - 1205 | [View Certificate](https://drive.google.com/file/d/1Ov0Vjtw5AJhgdktFKng0FHgJNqS25J3r/view?usp=sharing) |
+| Web Developer (Intern) | Alpha Net             | Oct 2025 - Present  | Nikunja 2, Dhaka - 1229 | [Present](#)                                                                                           |
 
 #### 🎯 Campus Ambassador – Key Achievements
 
