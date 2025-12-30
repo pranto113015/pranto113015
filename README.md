@@ -20,19 +20,19 @@
   <h3 style="text-align: center;">💻 Passionate about coding, creating, and continuous learning.</h3>
 
   <p>
-    👋 I'm <strong>Pranto</strong>, a <strong>Front-End Developer</strong> and <strong>Graphics Designer</strong> from Bangladesh. I completed a 4-year Diploma in Computer Science and Technology at <strong>Bogura Polytechnic Institute</strong>. I spend most of my time coding innovative projects 💡 or crafting creative designs 🎨.
+    I'm <strong>Pranto Kumar</strong>, a <strong>Front-End Developer</strong> from Bangladesh. I completed a 4-year Diploma in Computer Science and Technology at <strong>Bogura Polytechnic Institute</strong>. I spend most of my time coding innovative projects.
   </p>
 
   <p>
-    🎓 I served as a <strong>Campus Ambassador</strong> at <strong>Creative IT Institute</strong> from March 2022 to April 2023. Throughout my academic journey, I participated in government skill development training under the <strong>Mobile Game & Application Project (UX/UI Design)</strong> 🕹️ organized by the ICT Division.
+    I served as a <strong>Campus Ambassador</strong> at <strong>Creative IT Institute</strong> from November 2022 to June 2025. Throughout my academic journey, I participated in government skill development training under the <strong>Mobile Game & Application Project (UX/UI Design)</strong> organized by the ICT Division.
   </p>
 
   <p>
-    🖥️ I also completed an 80-hour training on <strong>Web Development Essentials</strong>, conducted by the Department of Computer Science and Engineering (CSE), Jagannath University, from October 2024 to May 2025, under the <strong>Enhancing Digital Government and Economy (EDGE) Project</strong> of the Bangladesh Computer Council, ICT Division.
+    I also completed an 80-hour training on <strong>Web Development Essentials</strong>, conducted by the Department of Computer Science and Engineering (CSE), Jagannath University, from October 2024 to May 2025, under the <strong>Enhancing Digital Government and Economy (EDGE) Project</strong> of the Bangladesh Computer Council, ICT Division.
   </p>
 
   <p>
-    💡 I have strong command over programming languages like <strong>C, C++, Java, and JavaScript</strong>, and am proficient in <strong>Data Structures & Algorithms (DSA)</strong> 📚 and <strong>Object-Oriented Programming (OOP)</strong>. Additionally, I have hands-on experience with technologies and tools such as <strong>HTML, CSS, Bootstrap, JavaScript, and MySQL</strong> 🛠️.
+    I have strong command over programming languages like <strong>C, C++ and JavaScript</strong>, and am proficient in <strong>Data Structures & Algorithms (DSA)</strong> and <strong>Object-Oriented Programming (OOP)</strong>. Additionally, I have hands-on experience with technologies and tools such as <strong>HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js and Next.js</strong>
   </p>
 </section>
 
@@ -48,7 +48,7 @@
 
 - 📚 I'm currently studying of the department **[BCSE](https://cse.iubat.edu/)**
 
-- 👨‍💻 I'm currently working **Front-End Development React JS**
+- 👨‍💻 I'm currently working **Front-End Development React.js and Next.js**
 
 - 💬 Ask me about **Web Related**
 
@@ -72,10 +72,10 @@
 
 ## 💼 Experience
 
-| Position               | Institute             | Duration            | Location                | Credential ID / Link                                                                                   |
-| ---------------------- | --------------------- | ------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------ |
-| Campus Ambassador      | Creative IT Institute | Nov 2022 - Jun 2025 | Dhanmondi, Dhaka - 1205 | [View Certificate](https://drive.google.com/file/d/1Ov0Vjtw5AJhgdktFKng0FHgJNqS25J3r/view?usp=sharing) |
-| Web Developer (Intern) | Alpha Net             | Oct 2025 - Present  | Nikunja 2, Dhaka - 1229 | [Present](#)                                                                                           |
+| Position               | Institute             | Duration             | Location                | Credential ID / Link                                                                                   |
+| ---------------------- | --------------------- | -------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------ |
+| Campus Ambassador      | Creative IT Institute | Nov 2022 - Jun 2025  | Dhanmondi, Dhaka - 1205 | [View Certificate](https://drive.google.com/file/d/1Ov0Vjtw5AJhgdktFKng0FHgJNqS25J3r/view?usp=sharing) |
+| Web Developer (Intern) | Alpha Net             | Sept 2025 - Dec 2025 | Nikunja 2, Dhaka - 1229 | [View Certificate](#)                                                                                  |
 
 #### 🎯 Campus Ambassador – Key Achievements
 
@@ -94,10 +94,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<!-- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) -->
-
-<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
-
 **Frondend Frameworks & Libraries :**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -108,8 +104,6 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-<!-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) -->
 
 **Backend :**
 
@@ -136,7 +130,11 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 <!-- Developer Hub section end -->
 
@@ -144,9 +142,10 @@
 
 #### 💻 B.Sc. in Computer Science & Engineering (CSE)
 
-**IUBAT – International University of Business Agriculture and Technology**, Uttara Model Town, Dhaka, Bangladesh  
-📅 2022 – Present | 🎯 Running CGPA: 3.53 / 4.00  
-⏳ Duration: 4 Years | 📚 Status: **Ongoing**
+**IUBAT – International University of Business Agriculture and Technology** , Sector-10, Uttara Model Town, Dhaka-1230, Bangladesh  
+📅 **Duration:** 2022 – 2025 (4 Years)  
+🎯 **CGPA:** 3.54 (Out of Scale 4.00)  
+📚 **Status:** Ongoing
 
 - Studying core areas including algorithms, databases, software engineering, and web technologies
 - Actively participating in academic projects and development-focused coursework
@@ -154,8 +153,9 @@
 #### 💻 Diploma in Computer Science & Technology
 
 **Bogura Polytechnique Institute**, Bogura, Rajshahi, Bangladesh  
-📅 2016 – 2020 | 🎯 CGPA: 3.83 / 4.00  
-⏳ Duration: 4 Years | 📚 Status: **Completed**
+📅 **Duration:** 2016 – 2020 (4 Years)  
+🎯 **CGPA:** 3.83 (Out of Scale 4.00)  
+📚 **Status:** Completed
 
 - Specialized in software development, data structures, networking, and system design
 - Gained strong hands-on experience through practical labs and real-world projects
