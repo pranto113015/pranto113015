@@ -16,23 +16,23 @@
 <!--pofiel view Section end-->
 
 <!-- Header subtitle area start -->
-<section align="justify" style="text-align: justify;">
-  <h3 style="text-align: center;">💻 Passionate about coding, creating, and continuous learning.</h3>
+<section>
+  <h3 align="center">💻 Passionate about coding, creating, and continuous learning.</h3>
 
-  <p>
+  <p style="text-align: justify;">
     I'm <strong>Pranto Kumar</strong>, a <strong>Front-End Developer</strong> from Bangladesh. I completed a 4-year Diploma in Computer Science and Technology at <strong>Bogura Polytechnic Institute</strong>. I spend most of my time coding innovative projects.
   </p>
 
-  <p>
+  <p style="text-align: justify;">
     I served as a <strong>Campus Ambassador</strong> at <strong>Creative IT Institute</strong> from November 2022 to June 2025. Throughout my academic journey, I participated in government skill development training under the <strong>Mobile Game & Application Project (UX/UI Design)</strong> organized by the ICT Division.
   </p>
 
-  <p>
+  <p style="text-align: justify;">
     I also completed an 80-hour training on <strong>Web Development Essentials</strong>, conducted by the Department of Computer Science and Engineering (CSE), Jagannath University, from October 2024 to May 2025, under the <strong>Enhancing Digital Government and Economy (EDGE) Project</strong> of the Bangladesh Computer Council, ICT Division.
   </p>
 
-  <p>
-    I have strong command over programming languages like <strong>C, C++ and JavaScript</strong>, and am proficient in <strong>Data Structures & Algorithms (DSA)</strong> and <strong>Object-Oriented Programming (OOP)</strong>. Additionally, I have hands-on experience with technologies and tools such as <strong>HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js and Next.js</strong>
+  <p style="text-align: justify;">
+    I have strong command over programming languages like <strong>C, C++ and JavaScript</strong>, and am proficient in <strong>Data Structures & Algorithms (DSA)</strong> and <strong>Object-Oriented Programming (OOP)</strong>. Additionally, I have hands-on experience with technologies and tools such as <strong>HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js and Next.js</strong>.
   </p>
 </section>
 
