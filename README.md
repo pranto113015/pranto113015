@@ -16,7 +16,7 @@
 <!--pofiel view Section end-->
 
 <!-- Header subtitle area start -->
-<section align="center" style="text-align: justify;">
+<section align="justify" style="text-align: justify;">
   <h3 style="text-align: center;">💻 Passionate about coding, creating, and continuous learning.</h3>
 
   <p>
