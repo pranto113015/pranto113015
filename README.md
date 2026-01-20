@@ -199,14 +199,30 @@
   <strong> — Pranto Kumar</strong>
 </div>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranto113015&show_icons=true&locale=en&layout=compact" alt="pranto113015" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranto113015&show_icons=true&locale=en" alt="pranto113015" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranto113015&show_icons=true&locale=en" alt="pranto113015" /></p> -->
+
+## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranto113015&show_icons=true&locale=en" alt="pranto113015-github-stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranto113015&show_icons=true&locale=en&layout=compact" alt="pranto113015-top-langs"/>
+</p>
+
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranto113015" alt="GitHub Streak" />
+</p> -->
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pranto113015&theme=dark&bg_color=0b0f1a&title_color=94018A&text_color=ffe4f2" />
 </p>
 
 [![pranto113015 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranto113015&bg_color=050004&color=eceaeb&line=4cee49&point=faf5f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
