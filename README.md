@@ -20,7 +20,7 @@
   <h3 align="center">💻 Passionate about coding, creating, and continuous learning.</h3>
 
   <p style="text-align: justify;">
-    I'm <strong>Pranto Kumar</strong>, a <strong>Front-End Developer</strong> from Bangladesh. I completed a 4-year Diploma in Computer Science and Technology at <strong>Bogura Polytechnic Institute</strong>. I spend most of my time coding innovative projects.
+    I’m Pranto Kumar, a passionate Front-End Developer from Bangladesh. I have completed a four-years B.Sc. in Computer Science and Engineering (CSE), along with a four-years Diploma in Computer Science and Technology from <strong>Bogura Polytechnic Institute</strong>. I spend most of my time building innovative and user-friendly web applications.
   </p>
 
   <p style="text-align: justify;">
@@ -44,21 +44,19 @@
 
 <!--Body Left Section Start-->
 
-- 👨‍🎓 I’m currently a Student at **[IUBAT University](https://iubat.edu/)**
+- 👨‍💻 Currently working on Front-End Development using React.js and Next.js
 
-- 📚 I'm currently studying of the department **[BCSE](https://cse.iubat.edu/)**
+- 💬 Open to discussions on web development and related technologies
 
-- 👨‍💻 I'm currently working **Front-End Development React.js and Next.js**
+- 💡 Passionate about building scalable, maintainable, and user-centric web applications
 
-- 💬 Ask me about **Web Related**
+- 📫 Reach me at pranto113015@gmail.com
 
-- 📫 How to reach me **<pranto113015@gmail.com>**
-
-- ⚡ Fun fact **So much discus do when i learn new skills**
 <!--Body Left Section End-->
 
 <!--Connect with me Section Start-->
-<h3 align="left"> 🌐 Connect with me :</h3>
+
+<h3 align="left"> 🌐 Contact Information :</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranto-kumar-a326801b3)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC.svg?logo=googleearth&logoColor=white)](https://prantokumar.netlify.app/)
@@ -75,7 +73,7 @@
 | Position               | Institute             | Duration             | Location                | Credential ID / Link                                                                                   |
 | ---------------------- | --------------------- | -------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------ |
 | Campus Ambassador      | Creative IT Institute | Nov 2022 - Jun 2025  | Dhanmondi, Dhaka - 1205 | [View Certificate](https://drive.google.com/file/d/1Ov0Vjtw5AJhgdktFKng0FHgJNqS25J3r/view?usp=sharing) |
-| Web Developer (Intern) | Alpha Net             | Sept 2025 - Dec 2025 | Nikunja 2, Dhaka - 1229 | [View Certificate](#)                                                                                  |
+| Web Developer (Intern) | Alpha Net             | Sept 2025 - Dec 2025 | Nikunja 2, Dhaka - 1229 | [View Certificate](https://drive.google.com/file/d/1Z2nm8iH7m5XRg761ht3X82RPMfuvZyJP/view?usp=sharing) |
 
 #### 🎯 Campus Ambassador – Key Achievements
 
