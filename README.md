@@ -20,7 +20,7 @@
   <h3 align="center">💻 Passionate about coding, creating, and continuous learning.</h3>
 
   <p style="text-align: justify;">
-    I’m Pranto Kumar, a passionate Front-End Developer from Bangladesh. I have completed a four-years B.Sc. in Computer Science and Engineering (CSE), along with a four-years Diploma in Computer Science and Technology from <strong>Bogura Polytechnic Institute</strong>. I spend most of my time building innovative and user-friendly web applications.
+    I’m Pranto Kumar, a passionate <strong>Front-End Developer </strong> from Bangladesh. I have completed a four-years <strong> B.Sc. in Computer Science and Engineering (CSE) </strong>, along with a four-years <strong>Diploma in Computer Science and Technology</strong> from <strong>Bogura Polytechnic Institute</strong>. I spend most of my time building innovative and user-friendly web applications.
   </p>
 
   <p style="text-align: justify;">
@@ -73,7 +73,7 @@
 | Position               | Institute             | Duration             | Location                | Credential ID / Link                                                                                   |
 | ---------------------- | --------------------- | -------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------ |
 | Campus Ambassador      | Creative IT Institute | Nov 2022 - Jun 2025  | Dhanmondi, Dhaka - 1205 | [View Certificate](https://drive.google.com/file/d/1Ov0Vjtw5AJhgdktFKng0FHgJNqS25J3r/view?usp=sharing) |
-| Web Developer (Intern) | Alpha Net             | Sept 2025 - Dec 2025 | Nikunja 2, Dhaka - 1229 | [View Certificate](https://drive.google.com/file/d/1Z2nm8iH7m5XRg761ht3X82RPMfuvZyJP/view?usp=sharing) |
+| Web Developer (Intern) | Alpha Net             | Sept 2025 - Dec 2025 | Nikunja 2, Dhaka - 1229 | [View Certificate](https://drive.google.com/file/d/1KItK5DQXFRG44ulE9OdujKHw2vrQJi3E/view?usp=sharing) |
 
 #### 🎯 Campus Ambassador – Key Achievements
 
@@ -182,12 +182,15 @@
   </p>
 </section>
 
-## 🏅 Honors & Awards
+## ✨ Honors & Awards
 
 <section>
-  <p>
-    <strong>🎓 100% Scholarship</strong> – Freelancing & Adobe Photoshop Certified Course, Creative IT Institute, Dhaka
-  </p>
+<p>
+  🎓 <strong>100% Scholarship</strong> – Successfully completed the <strong>Freelancing & Adobe Photoshop Certified Course</strong> at Creative IT Institute, Dhaka
+</p>
+<p>
+  🥉 <strong>SSC Achievement</strong> – Honored with official recognition by the Upazila Nirbahi Officer (UNO) for outstanding academic performance (GPA 5.00)
+</p>
 </section>
 
 ## 💡 Quote of the Day
