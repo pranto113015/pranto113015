@@ -70,10 +70,11 @@
 
 ## 💼 Experience
 
-| Position               | Institute             | Duration             | Location                | Credential ID / Link                                                                                   |
-| ---------------------- | --------------------- | -------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------ |
-| Campus Ambassador      | Creative IT Institute | Nov 2022 - Jun 2025  | Dhanmondi, Dhaka - 1205 | [View Certificate](https://drive.google.com/file/d/1Ov0Vjtw5AJhgdktFKng0FHgJNqS25J3r/view?usp=sharing) |
-| Web Developer (Intern) | Alpha Net             | Sept 2025 - Dec 2025 | Nikunja 2, Dhaka - 1229 | [View Certificate](https://drive.google.com/file/d/1KItK5DQXFRG44ulE9OdujKHw2vrQJi3E/view?usp=sharing) |
+| Position                               | Institute                 | Duration             | Location                         | Credential ID / Link                                                                                   |
+| -------------------------------------- | ------------------------- | -------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Campus Ambassador                      | Creative IT Institute     | Nov 2022 - Jun 2025  | Dhanmondi, Dhaka - 1205          | [View Certificate](https://drive.google.com/file/d/1Ov0Vjtw5AJhgdktFKng0FHgJNqS25J3r/view?usp=sharing) |
+| Web Developer (Intern)                 | Alpha Net                 | Sept 2025 - Dec 2025 | Nikunja 2, Dhaka - 1229          | [View Certificate](https://drive.google.com/file/d/1KItK5DQXFRG44ulE9OdujKHw2vrQJi3E/view?usp=sharing) |
+| Graduate Engineer Trainee (GET) - Odoo | Tex Fasteners, Bangladesh | Feb 2026 - Present   | Shiddhirganj, Narayanganj - 1430 | [](#)                                                                                                  |
 
 #### 🎯 Campus Ambassador – Key Achievements
 
