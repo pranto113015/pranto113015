@@ -143,7 +143,7 @@
 
 **IUBAT – International University of Business Agriculture and Technology** , Sector-10, Uttara Model Town, Dhaka-1230, Bangladesh  
 📅 **Duration:** 2022 – 2025 (4 Years)  
-🎯 **CGPA:** 3.54 (Out of Scale 4.00)  
+🎯 **CGPA:** 3.55 (Out of Scale 4.00)  
 📚 **Status:** Completed
 
 - Studying core areas including algorithms, databases, software engineering, and web technologies
