@@ -5,7 +5,7 @@
 <!--Banar Section End-->
 
 <!--Title & Typography Section End-->
-<h1 align="center">Hi ,<img src="./assets/img/Wave.gif" height="50px" width="50px">I'm a Front-End Web Developer</h1>
+<h1 align="center">Hi ,<img src="./assets/img/Wave.gif" height="50px" width="50px">I'm a Junior Software Engineer</h1>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=435&height=70&duration=4000&lines=welcome+to+visit+my+profile;+Nice+to+meet+you;"/>
