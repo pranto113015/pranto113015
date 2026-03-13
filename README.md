@@ -20,7 +20,7 @@
   <h3 align="center">💻 Passionate about coding, creating, and continuous learning.</h3>
 
   <p style="text-align: justify;">
-    I’m Pranto Kumar, a passionate <strong>Front-End Developer </strong> from Bangladesh. I have completed a four-years <strong> B.Sc. in Computer Science and Engineering (CSE) </strong>, along with a four-years <strong>Diploma in Computer Science and Technology</strong> from <strong>Bogura Polytechnic Institute</strong>. I spend most of my time building innovative and user-friendly web applications.
+    I’m Pranto Kumar, a passionate <strong>Junior Software Developer </strong> from Bangladesh. I have completed a four-years <strong> B.Sc. in Computer Science and Engineering (CSE) </strong>, along with a four-years <strong>Diploma in Computer Science and Technology</strong> from <strong>Bogura Polytechnic Institute</strong>. I spend most of my time building innovative and user-friendly web applications.
   </p>
 
   <p style="text-align: justify;">
@@ -44,7 +44,7 @@
 
 <!--Body Left Section Start-->
 
-- 👨‍💻 Currently working on Front-End Development using React.js and Next.js
+- 👨‍💻 Currently working on Junior Software Engineer role Odoo Development using Python, JavaScript and PostgreSQL
 
 - 💬 Open to discussions on web development and related technologies
 
