@@ -142,9 +142,9 @@
 #### 💻 B.Sc. in Computer Science & Engineering (CSE)
 
 **IUBAT – International University of Business Agriculture and Technology** , Sector-10, Uttara Model Town, Dhaka-1230, Bangladesh  
-📅 **Duration:** 2022 – 2025 (4 Years)  
+📅 **Duration:** 2022 – 2026 (4 Years)  
 🎯 **CGPA:** 3.55 (Out of Scale 4.00)  
-📚 **Status:** Completed
+📚 **Status:** Completed (During the period of **IEB Accreditation**)
 
 - Studying core areas including algorithms, databases, software engineering, and web technologies
 - Actively participating in academic projects and development-focused coursework
