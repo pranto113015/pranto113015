@@ -1,26 +1,26 @@
-<!--Banar Section Start-->
+<!--Banner Section Start-->
 
 ![logo](./assets/img/github-bannar_Pranto_Kumar.png)
 
-<!--Banar Section End-->
+<!--Banner Section End-->
 
 <!--Title & Typography Section End-->
-<h1 align="center">Hi ,<img src="./assets/img/Wave.gif" height="50px" width="50px">I'm a Junior Software Engineer</h1>
+<h1 align="center">Hi, <img src="./assets/img/Wave.gif" height="50px" width="50px"> I'm a Junior Software Engineer</h1>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=435&height=70&duration=4000&lines=welcome+to+visit+my+profile;+Nice+to+meet+you;"/>
 <!--Title & Typography Section End-->
 
-<!--pofiel view Section start-->
+<!--Profile view Section start-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pranto113015&label=Profile%20views&color=0e75b6&style=flat" alt="pranto113015" /> </p>
-<!--pofiel view Section end-->
+<!--Profile view Section end-->
 
 <!-- Header subtitle area start -->
 <section>
   <h3 align="center">💻 Passionate about coding, creating, and continuous learning.</h3>
 
   <p style="text-align: justify;">
-    I’m Pranto Kumar, a passionate <strong>Junior Software Developer </strong> from Bangladesh. I have completed a four-years <strong> B.Sc. in Computer Science and Engineering (CSE) </strong>, along with a four-years <strong>Diploma in Computer Science and Technology</strong> from <strong>Bogura Polytechnic Institute</strong>. I spend most of my time building innovative and user-friendly web applications.
+    I’m Pranto Kumar, a passionate <strong>Junior Software Developer</strong> from Bangladesh. I have completed a four-year <strong>B.Sc. in Computer Science and Engineering (CSE)</strong>, along with a four-year <strong>Diploma in Computer Science and Technology</strong> from <strong>Bogura Polytechnic Institute</strong>. I spend most of my time building innovative, user-friendly web applications.
   </p>
 
   <p style="text-align: justify;">
@@ -32,7 +32,7 @@
   </p>
 
   <p style="text-align: justify;">
-    I have strong command over programming languages like <strong>C, C++ and JavaScript</strong>, and am proficient in <strong>Data Structures & Algorithms (DSA)</strong> and <strong>Object-Oriented Programming (OOP)</strong>. Additionally, I have hands-on experience with technologies and tools such as <strong>HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js and Next.js</strong>.
+    I have a strong command of programming languages like <strong>C, C++, and JavaScript</strong>, and I am proficient in <strong>Data Structures & Algorithms (DSA)</strong> and <strong>Object-Oriented Programming (OOP)</strong>. Additionally, I have hands-on experience with technologies and tools such as <strong>HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js, and Next.js</strong>.
   </p>
 </section>
 
@@ -44,7 +44,7 @@
 
 <!--Body Left Section Start-->
 
-- 👨‍💻 Currently working on Junior Software Engineer role Odoo Development using Python, JavaScript and PostgreSQL
+- 👨‍💻 Currently working in a Junior Software Engineer role focused on Odoo development using Python, JavaScript, and PostgreSQL
 
 - 💬 Open to discussions on web development and related technologies
 
@@ -56,7 +56,7 @@
 
 <!--Connect with me Section Start-->
 
-<h3 align="left"> 🌐 Contact Information :</h3>
+<h3 align="left"> 🌐 Contact Information:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranto-kumar-a326801b3)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC.svg?logo=googleearth&logoColor=white)](https://prantokumar.netlify.app/)
@@ -87,13 +87,13 @@
 
 ## 🧰 Tech Stack
 
-**Core Progamming languages :**
+**Core Programming Languages:**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-**Frondend Frameworks & Libraries :**
+**Frontend Frameworks & Libraries:**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -104,19 +104,19 @@
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-**Backend :**
+**Backend:**
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
 
-**Databases and cloud hosting :**
+**Databases and Cloud Hosting:**
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Software and Tools :**
+**Software and Tools:**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
@@ -168,7 +168,7 @@
 | Web Development Essentials             | EDGE Project of the Bangladesh Computer Council (BCC) Under the ICT Division | 2025 | [View Certificate](https://drive.google.com/file/d/1hfVl_0NC8RY_IMV9fdnNX07inpo1GgU0/view?usp=sharing) |
 | Master Git and Github                  | udemy                                                                        | 2024 | [View Certificate](https://drive.google.com/file/d/12azxDov7E5Voh8fmi78sE6U1xdO1yI0V/view?usp=sharing) |
 | Full Stack Development with MERN       | CodersTrust and GpAcademy                                                    | 2024 | [View Certificate](https://drive.google.com/file/d/1wzX6Ow0pqbqSk0MLMwVC-T03FJOyJgci/view)             |
-| Front-end Development using JavaScript | IUBAT University Department of Computr Science and Engineering (CSE)         | 2023 | [View Certificate](https://drive.google.com/file/d/14xZQfgzZRoIbJkjL9CVDCRbbgEv0Q46J/view?usp=sharing) |
+| Front-end Development using JavaScript | IUBAT University Department of Computer Science and Engineering (CSE)        | 2023 | [View Certificate](https://drive.google.com/file/d/14xZQfgzZRoIbJkjL9CVDCRbbgEv0Q46J/view?usp=sharing) |
 | Adobe Photoshop                        | Creative IT Institute, Uttara Campus, Dhaka.                                 | 2022 | [View Certificate](https://drive.google.com/file/d/1Eh08IYEeQBPdk2l-9zzB3IncnpMRJWuG/view)             |
 | UX/UI Design                           | Skill Development for Mobile Game & Application Project, ICT Division        | 2018 | [View Certificate](https://drive.google.com/file/d/1xJQvLMxoo-VEGTBDPvlwwdvmUUG_VFLO/view)             |
 
@@ -232,7 +232,7 @@
 
 <!-- footer section start -->
 <hr>
-<p align="center" target="_blank">Thanks for going through my personal Portfolio | All rights reserved by ❤️ <a href="https://www.linkedin.com/in/pranto-kumar-a326801b3/">Pranto Kumar</a> © 2019 - 2026</p>
+<p align="center" target="_blank">Thank you for visiting my portfolio. All rights reserved © 2019 - 2026 by <a href="https://www.linkedin.com/in/pranto-kumar-a326801b3/">Pranto Kumar</a>.</p>
 
 ![logo](./assets/img/footer%20img.svg)
 
