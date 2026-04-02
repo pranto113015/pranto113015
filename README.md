@@ -19,19 +19,19 @@
 <section>
   <h3 align="center">💻 Passionate about coding, creating, and continuous learning.</h3>
 
-  <p style="text-align: justify;">
+  <p style="text-align: justify; text-justify: inter-word;">
     I’m Pranto Kumar, a passionate <strong>Junior Software Developer</strong> from Bangladesh. I have completed a four-year <strong>B.Sc. in Computer Science and Engineering (CSE)</strong>, along with a four-year <strong>Diploma in Computer Science and Technology</strong> from <strong>Bogura Polytechnic Institute</strong>. I spend most of my time building innovative, user-friendly web applications.
   </p>
 
-  <p style="text-align: justify;">
+  <p style="text-align: justify; text-justify: inter-word;">
     I served as a <strong>Campus Ambassador</strong> at <strong>Creative IT Institute</strong> from November 2022 to June 2025. Throughout my academic journey, I participated in government skill development training under the <strong>Mobile Game & Application Project (UX/UI Design)</strong> organized by the ICT Division.
   </p>
 
-  <p style="text-align: justify;">
+  <p style="text-align: justify; text-justify: inter-word;">
     I also completed an 80-hour training on <strong>Web Development Essentials</strong>, conducted by the Department of Computer Science and Engineering (CSE), Jagannath University, from October 2024 to May 2025, under the <strong>Enhancing Digital Government and Economy (EDGE) Project</strong> of the Bangladesh Computer Council, ICT Division.
   </p>
 
-  <p style="text-align: justify;">
+  <p style="text-align: justify; text-justify: inter-word;">
     I have a strong command of programming languages like <strong>C, C++, and JavaScript</strong>, and I am proficient in <strong>Data Structures & Algorithms (DSA)</strong> and <strong>Object-Oriented Programming (OOP)</strong>. Additionally, I have hands-on experience with technologies and tools such as <strong>HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js, and Next.js</strong>.
   </p>
 </section>
@@ -177,7 +177,7 @@
 ## 🎯 Interests & Activities
 
 <section>
-  <p>
+  <p style="text-align: justify; text-justify: inter-word;">
     <strong>Sports & Fitness:</strong> 🏸 Badminton | 🏃‍♂️ Running | 🚶‍♂️ Walking<br>
     <strong>Leisure & Lifestyle:</strong> ✈️ Travelling | 🌳 Gardening
   </p>
@@ -186,10 +186,10 @@
 ## ✨ Honors & Awards
 
 <section>
-<p>
+<p style="text-align: justify; text-justify: inter-word;">
   🎓 <strong>100% Scholarship</strong> – Successfully completed the <strong>Freelancing & Adobe Photoshop Certified Course</strong> at Creative IT Institute, Dhaka
 </p>
-<p>
+<p style="text-align: justify; text-justify: inter-word;">
   🥉 <strong>SSC Achievement</strong> – Honored with official recognition by the Upazila Nirbahi Officer (UNO) for outstanding academic performance (GPA 5.00)
 </p>
 </section>
