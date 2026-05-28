@@ -74,7 +74,7 @@
 | ---------------------------------------------- | ------------------------- | -------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | Campus Ambassador                              | Creative IT Institute     | Nov 2022 - Jun 2025  | Dhanmondi, Dhaka - 1205          | [View Certificate](https://drive.google.com/file/d/1Ov0Vjtw5AJhgdktFKng0FHgJNqS25J3r/view?usp=sharing) |
 | Web Developer (Intern)                         | Alpha Net                 | Sept 2025 - Dec 2025 | Nikunja 2, Dhaka - 1229          | [View Certificate](https://drive.google.com/file/d/1KItK5DQXFRG44ulE9OdujKHw2vrQJi3E/view?usp=sharing) |
-| Executive Engineer - IT & Software Development | Tex Fasteners, Bangladesh | Feb 2026 - Present   | Shiddhirganj, Narayanganj - 1430 |
+| Executive Engineer - IT & Software Development | Tex Fasteners, Bangladesh | Jan 2026 - Present   | Shiddhirganj, Narayanganj - 1430 |
 
 #### 🎯 Campus Ambassador – Key Achievements
 
@@ -144,7 +144,7 @@
 #### 💻 B.Sc. in Computer Science & Engineering (CSE)
 
 **IUBAT – International University of Business Agriculture and Technology** , Sector-10, Uttara Model Town, Dhaka-1230, Bangladesh  
-📅 **Duration:** 2022 – 2026 (4 Years)  
+📅 **Duration:** January 2022 – December 2025  
 🎯 **CGPA:** 3.55 (Out of Scale 4.00)  
 📚 **Status:** Completed (During the period of **IEB Accreditation**)
 
